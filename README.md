@@ -12,11 +12,11 @@ Project title: Rainwater Harvesting
 
 3 collaborators:
 
-         Vo Quang Trung       Student1313748
+         Vo Quang Trung      Student1407989 
 
-         Vo Van Suong    Student1316202
+         Vo Van Suong        Student1407992
          
-         Tran Hong Duy Tu      Student1316206
+         Tran Hong Duy Tu    Student1409139
 ============================
 
 eProject documentation at https://github.com/duytutr/g3-rainwater-harvesting/tree/master/document
