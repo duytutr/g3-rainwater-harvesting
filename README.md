@@ -19,7 +19,7 @@ Project title: Rainwater Harvesting
          Tran Hong Duy Tu      Student1316206
 ============================
 
-eProject documentation at 
+eProject documentation at https://github.com/duytutr/g3-rainwater-harvesting/tree/master/document
 
 ============================
 
