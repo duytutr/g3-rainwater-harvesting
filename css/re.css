@@ -6,7 +6,9 @@
 }
 
 
-
+img.img-fluid {
+    width: 100%;
+}
 
 
 .footer .footer-header {
